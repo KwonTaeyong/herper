@@ -1,0 +1,11 @@
+.go-top {
+    right: 1em;
+    bottom: 2em;
+    color: #000000;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    position: fixed;
+}
